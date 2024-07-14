@@ -1,4 +1,7 @@
 .DS_Store
+.vscode
 *.dcm
 *.jpg
+*.pyc
 *.zip
+test.py
